@@ -16,7 +16,8 @@ layout: default
 
 ## 📊 Komparation av Adjektiv (Comparison of Adjectives)
 
-### Grundformer:
+### Grundformer:  
+
 | Positiv | Komparativ | Superlativ |
 |---------|-------------|------------|
 | röd     | rödare      | rödast     |
