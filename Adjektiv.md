@@ -1,12 +1,3 @@
----
-layout: default
----
-
-# {{ site.title }}
-
-**{{ site.teacher }}**
-
-
 ## 🔤 Kongruens (Agreement)
 - Adjektiv böjs efter substantivet:
   - **Bilen är röd.**
